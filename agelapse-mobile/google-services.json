@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278217370142",
+    "project_id": "kopfkino-859fc",
+    "storage_bucket": "kopfkino-859fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278217370142:android:c300f5e6f69469da2d5c0f",
+        "android_client_info": {
+          "package_name": "com.promptit.kopfkino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0CUS57eUDkdQdEZ00u8ucmwvlDh2LXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
